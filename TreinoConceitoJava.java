@@ -8,9 +8,9 @@ public class TreinoConceitoJava {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		
-		int a=0;
+		int b=0;
 		
-		System.out.println("\nValor de a = "+a);
+		System.out.println("\nValor de a = "+b);
 		
 	}
 }
